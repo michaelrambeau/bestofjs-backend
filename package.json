@@ -32,7 +32,7 @@
     "lodash": "^4.17.11",
     "luxon": "^1.16.1",
     "mongodb": "^3.1.13",
-    "mongoose": "^5.4.10",
+    "mongoose": "^5.7.5",
     "p-map": "^2.0.0",
     "p-props": "^3.0.1",
     "p-timeout": "^3.1.0",
